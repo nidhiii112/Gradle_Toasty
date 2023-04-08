@@ -1,6 +1,6 @@
 # Gradle_Toasty
 
-This Application Showing the message print with the sign according to the message. 
+This Application Showing the message print with the sign according to the messages. 
 The Application have 5 Buttons which are ERROR , SUCCESS , INFORMATION , WARNING and IMAGE .
 
 # Interface of the Application
